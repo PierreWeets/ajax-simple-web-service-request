@@ -7,7 +7,7 @@ The web service sits at this URL:  https://thatsthespir.it/api.
 
 ## With Ajax
 
-[get comments with Ajax]((https://pierreweets.github.io/ajax-simple-web-service-request/indexBis.html)
+[get comments with Ajax](https://pierreweets.github.io/ajax-simple-web-service-request/indexBis.html)
 
 
 
