@@ -3,11 +3,11 @@
 The web service sits at this URL:  https://thatsthespir.it/api.
 
 ## with Fetch
-[get comments with Fetch](https://github.com/PierreWeets/ajax-simple-web-service-request.git/index.html)
+[get comments with Fetch](https://pierreweets.github.io/ajax-simple-web-service-request/index.html)
 
 ## With Ajax
 
-[get comments with Ajax](https://github.com/PierreWeets/ajax-simple-web-service-request.git/indexBis.html)
+[get comments with Ajax]((https://pierreweets.github.io/ajax-simple-web-service-request/indexBis.html)
 
 
 
